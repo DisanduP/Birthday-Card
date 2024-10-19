@@ -3,7 +3,7 @@ body {
     align-items: center;
     justify-content: center;
     height: 100vh;
-    background:url("6013705.jpg");
+    background:linear-gradient(#ff3e6b,#f98c6e);
   }
   
   .birthdayCard {
